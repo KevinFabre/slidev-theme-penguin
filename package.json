@@ -1,8 +1,8 @@
 {
-  "name": "slidev-theme-penguin",
+  "name": "slidev-theme-penguin--kevin-fabre",
   "version": "0.0.0-development",
-  "description": "A Penguin theme for Slidev",
-  "author": "Alvaro Saburido <hola@alvarosaburido.dev>",
+  "description": "A personal Penguin theme for Slidev",
+  "author": "Kevin Fabre <me@kevinfabre.com>",
   "keywords": [
     "slidev-theme",
     "slidev",
@@ -10,12 +10,12 @@
   ],
   "license": "MIT",
   "private": false,
-  "homepage": "https://penguin-theme.alvarosaburido.dev/",
+  "homepage": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alvarosaburido/slidev-theme-penguin.git"
+    "url": "git+https://github.com/KevinFabre/slidev-theme-penguin.git"
   },
-  "bugs": "https://github.com/alvarosaburido/slidev-theme-penguin/issues",
+  "bugs": "https://github.com/KevinFabre/slidev-theme-penguin/issues",
   "slidev": {
     "colorSchema": "both",
     "highlighter": "prism",

@@ -1,8 +1,11 @@
 ![repository-banner.png](https://res.cloudinary.com/alvarosaburido/image/upload/v1612193118/as-portfolio/Repo_Banner_kexozw.png)
 
-# slidev-theme-penguin
+# slidev-theme-penguin--kevin-fabre
 
-[![NPM version](https://img.shields.io/npm/v/slidev-theme-penguin?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-penguin)
+**This project is a fork from [slidev-theme-penguin](https://github.com/alvarosabu/slidev-theme-penguin)**.
+
+---
+<!-- [![NPM version](https://img.shields.io/npm/v/slidev-theme-penguin?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-penguin) -->
 
 A Penguin 🐧  theme for [Slidev](https://github.com/slidevjs/slidev).
 
